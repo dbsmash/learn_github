@@ -6,6 +6,9 @@ def recursive_fib(n):
 
 
 def iterative_fib(n):
+    '''
+    This is an iterative implemention of the Fibonacci sequence
+    '''
     a = 0
     b = 1
     for i in range(0, n):
