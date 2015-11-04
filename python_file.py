@@ -1,4 +1,7 @@
 def recursive_fib(n):
+    '''
+    This is a recursive_fib implementation, which is a BAD idea.
+    '''
     if n <= 1:
         return 1
     else:
